@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background: #6cb3c7;
+}
+
+.logo{
+    width:100%;
+    height: 211px;
+    background:url("../images/logo.jpg") top center no-repeat;
+    margin:200px auto;
+    text-align: center;
+}
+
